@@ -1,7 +1,7 @@
 # theSugarStack
 
 ## Overview
-**theSugarStack** is an interactive web application that explores global desserts while integrating key web development concepts. This project showcases the use of React for dynamic content rendering, state management, and modular component-based architecture, making it a great learning tool for frontend development.
+**theSugarStack** is an introduction to a larger project. It showcases the use of React for dynamic content rendering, state management, and modular component-based architecture to serve as a jumping off point to other larger projects related to Desserts. The theme of desserts around the world is what has driven my coding journey. Inspired by TasteAtlas, it has turned into something that combines real world conversations about culture, food and the commonalities in desserts across the globe. I use ChatGPT to create informative copy about desserts that I researched and learned about from people of various backgrounds, all over NYC. This page will explore more desserts while focusing on various concepts in react development, django and prompt engineering. The following is a preliminary React project based on React basics. 
 
 ## Features
 - **Dynamic UI Components:** Uses reusable React components to structure the UI efficiently.
@@ -51,9 +51,10 @@
 
 
 ## Future Enhancements
-- Interactive search for desserts by country or ingredient.
+- Pages will be added to the tabs as I dive deeper into React.
+- A complete website will be developed in either Django or React that focuses on templating and using dynamic search. 
 - Integration with a Django backend to store and retrieve dessert data.
-- User-generated content allowing people to share their own dessert stories.
+
 
 ## About
 This project aligns with the creator’s passion for exploring cultural heritage through food and technology. It blends research with web development, making learning both insightful and delicious!

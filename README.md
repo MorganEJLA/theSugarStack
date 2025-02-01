@@ -48,7 +48,7 @@
 - **Component-Driven Development:** The application is built with a modular approach, ensuring that UI elements can be reused and extended easily.
 - **State Handling Best Practices:** The `useState` hook enables smooth updates without unnecessary re-renders.
 - **Performance Optimization:** Efficient rendering techniques and asset handling contribute to a seamless user experience.
-- **Scalability Considerations:** The structure supports easy expansion, making it simple to add new dessert categories and features.
+
 
 ## Future Enhancements
 - Interactive search for desserts by country or ingredient.
